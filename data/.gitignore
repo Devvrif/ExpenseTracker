@@ -1,0 +1,13 @@
+# Python cache files
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+env/
+
+# Data files
+data/expenses.json
+
+# Optional personal notes
+contact.txt

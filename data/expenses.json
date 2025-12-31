@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Lunch",
+        "amount": 12
+    },
+    {
+        "name": "Coffee",
+        "amount": 5
+    },
+    {
+        "name": "Book",
+        "amount": 20
+    }
+]
